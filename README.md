@@ -18,6 +18,9 @@
 <p>Start Date : 03.07.2021</p>
 <p>End Date   : 09.07.2021</p>
 <p>Status     : Completed</p>
-<p>Screenshots:  </p>
 
-![a1]()
+## Preview
+![snap1](https://user-images.githubusercontent.com/65110262/125070011-25b1d780-e0d5-11eb-8cba-2bb200d0ba9f.PNG)
+![snap2](https://user-images.githubusercontent.com/65110262/125070002-234f7d80-e0d5-11eb-827c-2fcc4d3b3d84.PNG)
+
+<hr>
