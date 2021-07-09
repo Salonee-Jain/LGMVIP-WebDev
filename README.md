@@ -3,7 +3,7 @@
 
 <br>
 
-### Author Details:
+## Author Details:
 <p>Name     : Saloni Jain</p>
 <p>Position : Web Developer Intern</p>
 <p>Badges   : LGMVIP</p>
@@ -11,7 +11,8 @@
 <hr>
 
 
-## Project 1
+## Task 1:
+### Single Page Website
 <p>Name       : Healthy Recipe Website </p>
 <p>Type       : Frontend </p>
 <p>Techs      : HTML, CSS, JavaScript, Bootstrap 4</p>
@@ -24,3 +25,12 @@
 ![snap2](https://user-images.githubusercontent.com/65110262/125070002-234f7d80-e0d5-11eb-827c-2fcc4d3b3d84.PNG)
 
 <hr>
+
+
+## Task 2:
+### Web Application Using `create-react-app`
+
+<p>Type       : Frontend intergrating with API</p>
+<p>Techs      : HTML, CSS, ReactJS, NodeJS,</p>
+<p>Status     : Working</p>
+
