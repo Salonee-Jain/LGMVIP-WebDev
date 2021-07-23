@@ -1,0 +1,21 @@
+#card
+{
+    border-radius: 30%;
+    background-color:rgb(255, 255, 250);
+    color:rgb(84, 27, 175);
+}
+
+#card:hover
+{
+    color:rgb(255, 255, 255);
+    background-color: rgb(177, 42, 93);
+    
+}
+#image
+{
+    border-radius: 50%;
+    border-width: 10px;
+}
+.copy{
+    background-color:black;
+}
