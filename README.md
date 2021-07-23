@@ -25,6 +25,7 @@
 ![snap2](https://user-images.githubusercontent.com/65110262/125070002-234f7d80-e0d5-11eb-827c-2fcc4d3b3d84.PNG)
 
 <hr>
+<hr>
 
 
 ## Task 2:
@@ -32,5 +33,14 @@
 
 <p>Type       : Frontend intergrating with API</p>
 <p>Techs      : HTML, CSS, ReactJS, NodeJS,</p>
-<p>Status     : Working</p>
+<p>Start Date : 15.07.2021</p>
+<p>End Date   : 20.07.2021</p>
+<p>Status     : Completed</p>
+
+## Preview
+![1](https://user-images.githubusercontent.com/65110262/126739629-5b90f06c-45f4-401d-a9b6-235b36f2b0e0.PNG)
+![2](https://user-images.githubusercontent.com/65110262/126739646-8d3aa876-aae2-4c60-975d-0b45658d8b95.PNG)
+
+<hr>
+<hr>
 
